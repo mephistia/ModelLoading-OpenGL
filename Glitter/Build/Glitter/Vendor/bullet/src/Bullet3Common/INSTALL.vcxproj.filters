@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\julia\Documents\GitFacul\Glitter\Build\CMakeFiles\79feda0f58ce0934695881d65317b3d4\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{77AA8161-8B50-3344-BCAC-CD589AE9B930}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

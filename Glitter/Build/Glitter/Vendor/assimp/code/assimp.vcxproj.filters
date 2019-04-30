@@ -1,0 +1,1815 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Assimp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\BaseImporter.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\BaseProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\PostStepRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ImporterRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\DefaultIOStream.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\DefaultIOSystem.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\CInterfaceIOWrapper.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\SGSpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\VertexTriangleAdjacency.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\SpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\SceneCombiner.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ScenePreprocessor.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\SkeletonMeshBuilder.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\SplitByBoneCountProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\StandardShapes.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\TargetAnimation.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\RemoveComments.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Subdivision.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\scene.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Bitmap.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Version.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\CreateAnimMesh.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\simd.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\DefaultLogger.cpp">
+      <Filter>Logging</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Exporter.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\AssimpCExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\CalcTangentsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ComputeUVMappingProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ConvertToLHProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\EmbedTexturesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FindDegenerates.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FindInstancesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FindInvalidDataProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FixNormalsStep.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\DropFaceNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\GenFaceNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\GenVertexNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\PretransformVertices.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ImproveCacheLocality.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\JoinVerticesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\LimitBoneWeightsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\RemoveRedundantMaterials.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\RemoveVCProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\SortByPTypeProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\SplitLargeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\TextureTransform.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\TriangulateProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ValidateDataStructure.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\OptimizeGraph.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\OptimizeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\DeboneProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ProcessHelper.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MakeVerboseFormat.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ScaleProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MaterialSystem.cpp">
+      <Filter>MaterialSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer\STEPParser\STEPFileReader.cpp">
+      <Filter>STEPParser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer\STEPParser\STEPFileEncoding.cpp">
+      <Filter>STEPParser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\AMFImporter.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\AMFImporter_Geometry.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\AMFImporter_Material.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\AMFImporter_Postprocess.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\3DSConverter.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\3DSLoader.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ACLoader.cpp">
+      <Filter>AC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ASELoader.cpp">
+      <Filter>ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ASEParser.cpp">
+      <Filter>ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\AssbinLoader.cpp">
+      <Filter>ASSBIN</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\AssxmlExporter.cpp">
+      <Filter>ASSXML</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\B3DImporter.cpp">
+      <Filter>B3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\BVHLoader.cpp">
+      <Filter>BVH</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ColladaLoader.cpp">
+      <Filter>COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ColladaParser.cpp">
+      <Filter>COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\DXFLoader.cpp">
+      <Filter>DXF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\CSMLoader.cpp">
+      <Filter>CSM</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\HMPLoader.cpp">
+      <Filter>HMP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\IRRMeshLoader.cpp">
+      <Filter>IRRMESH</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\IRRShared.cpp">
+      <Filter>IRR</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\IRRLoader.cpp">
+      <Filter>IRR</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\LWOAnimation.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\LWOBLoader.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\LWOLoader.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\LWOMaterial.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\LWSLoader.cpp">
+      <Filter>LWS</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MD2Loader.cpp">
+      <Filter>MD2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MD3Loader.cpp">
+      <Filter>MD3</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MD5Loader.cpp">
+      <Filter>MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MD5Parser.cpp">
+      <Filter>MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MDCLoader.cpp">
+      <Filter>MDC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MDLLoader.cpp">
+      <Filter>MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MDLMaterialLoader.cpp">
+      <Filter>MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\NFFLoader.cpp">
+      <Filter>NFF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\NDOLoader.cpp">
+      <Filter>NDO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\OFFLoader.cpp">
+      <Filter>OFF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ObjFileImporter.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ObjFileMtlImporter.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ObjFileParser.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\OgreImporter.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\OgreStructs.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\OgreBinarySerializer.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\OgreXmlSerializer.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\OgreMaterial.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\OpenGEXImporter.cpp">
+      <Filter>OPENGEX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\PlyLoader.cpp">
+      <Filter>PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\PlyParser.cpp">
+      <Filter>PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MS3DLoader.cpp">
+      <Filter>MS3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\COBLoader.cpp">
+      <Filter>COB</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\BlenderLoader.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\BlenderDNA.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\BlenderScene.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\BlenderModifier.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\BlenderBMesh.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\BlenderTessellator.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\BlenderCustomData.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer\IFC\IFCLoader.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer\IFC\IFCReaderGen1_2x3.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer\IFC\IFCReaderGen2_2x3.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer\IFC\IFCUtil.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer\IFC\IFCGeometry.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer\IFC\IFCMaterial.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer\IFC\IFCProfile.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer\IFC\IFCCurve.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer\IFC\IFCBoolean.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer\IFC\IFCOpenings.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\XGLLoader.cpp">
+      <Filter>XGL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXImporter.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXParser.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXTokenizer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXConverter.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXUtil.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXDocument.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXProperties.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXMeshGeometry.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXMaterial.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXModel.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXAnimation.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXNodeAttribute.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXDeformer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXBinaryTokenizer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXDocumentUtil.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Q3DLoader.cpp">
+      <Filter>Q3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Q3BSPFileParser.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Q3BSPFileImporter.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Q3BSPZipArchive.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\RawLoader.cpp">
+      <Filter>RAW</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\SIBImporter.cpp">
+      <Filter>SIB</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\SMDLoader.cpp">
+      <Filter>SMD</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\STLLoader.cpp">
+      <Filter>STL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\TerragenLoader.cpp">
+      <Filter>TERRAGEN</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\UnrealLoader.cpp">
+      <Filter>3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\XFileImporter.cpp">
+      <Filter>X</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\XFileParser.cpp">
+      <Filter>X</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\X3DImporter.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\X3DImporter_Geometry2D.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\X3DImporter_Geometry3D.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\X3DImporter_Group.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\X3DImporter_Light.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\X3DImporter_Metadata.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\X3DImporter_Networking.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\X3DImporter_Postprocess.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\X3DImporter_Rendering.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\X3DImporter_Shape.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\X3DImporter_Texturing.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FIReader.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\X3DVocabulary.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\glTFImporter.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\glTF2Importer.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\D3MFImporter.cpp">
+      <Filter>3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\D3MFOpcPackage.cpp">
+      <Filter>3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MMDImporter.cpp">
+      <Filter>MMD</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MMDPmxParser.cpp">
+      <Filter>MMD</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer\StepFile\StepFileImporter.cpp">
+      <Filter>STEP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer\StepFile\StepFileGen1.cpp">
+      <Filter>STEP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer\StepFile\StepFileGen2.cpp">
+      <Filter>STEP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer\StepFile\StepFileGen3.cpp">
+      <Filter>STEP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\3DSExporter.cpp">
+      <Filter>3DS_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\AssbinExporter.cpp">
+      <Filter>ASSBIN_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ColladaExporter.cpp">
+      <Filter>COLLADA_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ObjExporter.cpp">
+      <Filter>OBJ_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\OpenGEXExporter.cpp">
+      <Filter>OPENGEX_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\PlyExporter.cpp">
+      <Filter>PLY_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXExporter.cpp">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXExportNode.cpp">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXExportProperty.cpp">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\STLExporter.cpp">
+      <Filter>STL_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\XFileExporter.cpp">
+      <Filter>X_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\X3DExporter.cpp">
+      <Filter>X3D_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\glTFExporter.cpp">
+      <Filter>GLTF_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\glTF2Exporter.cpp">
+      <Filter>GLTF_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\D3MFExporter.cpp">
+      <Filter>3MF_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\StepExporter.cpp">
+      <Filter>STEP_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\unzip\ioapi.c">
+      <Filter>unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\unzip\unzip.c">
+      <Filter>unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\poly2tri\poly2tri\common\shapes.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\poly2tri\poly2tri\sweep\advancing_front.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\poly2tri\poly2tri\sweep\cdt.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\poly2tri\poly2tri\sweep\sweep.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\poly2tri\poly2tri\sweep\sweep_context.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\clipper\clipper.cpp">
+      <Filter>Clipper</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\openddlparser\code\OpenDDLParser.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\openddlparser\code\DDLNode.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\openddlparser\code\OpenDDLCommon.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\openddlparser\code\OpenDDLExport.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\openddlparser\code\Value.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\openddlparser\code\OpenDDLStream.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcArithmeticCodec.cpp">
+      <Filter>open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcDynamicVectorDecoder.cpp">
+      <Filter>open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcDynamicVectorEncoder.cpp">
+      <Filter>open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcTools.cpp">
+      <Filter>open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcTriangleFans.cpp">
+      <Filter>open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\zip\src\zip.c">
+      <Filter>ziplib</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\BaseProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ScenePrivate.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\DefaultProgressHandler.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\CInterfaceIOWrapper.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\IFF.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\VertexTriangleAdjacency.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ScenePreprocessor.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\SplitByBoneCountProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\TargetAnimation.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\simd.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\DefaultLogger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\LogStream.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\Logger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\NullLogger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Win32DebugLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FileLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\StdOStreamLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\BlobIOSystem.h">
+      <Filter>Exporter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\CalcTangentsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ComputeUVMappingProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ConvertToLHProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\EmbedTexturesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FindDegenerates.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FindInstancesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FindInvalidDataProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FixNormalsStep.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\DropFaceNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\GenFaceNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\GenVertexNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\PretransformVertices.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ImproveCacheLocality.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\JoinVerticesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\LimitBoneWeightsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\RemoveRedundantMaterials.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\RemoveVCProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\SortByPTypeProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\SplitLargeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\TextureTransform.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\TriangulateProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ValidateDataStructure.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\OptimizeGraph.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\OptimizeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\DeboneProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ProcessHelper.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\PolyTools.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MakeVerboseFormat.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ScaleProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MaterialSystem.h">
+      <Filter>MaterialSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer\STEPParser\STEPFileReader.h">
+      <Filter>STEPParser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer\STEPParser\STEPFileEncoding.h">
+      <Filter>STEPParser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\AMFImporter.hpp">
+      <Filter>AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\AMFImporter_Macro.hpp">
+      <Filter>AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\AMFImporter_Node.hpp">
+      <Filter>AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\3DSHelper.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\3DSLoader.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ACLoader.h">
+      <Filter>AC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ASELoader.h">
+      <Filter>ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ASEParser.h">
+      <Filter>ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\AssbinLoader.h">
+      <Filter>ASSBIN</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\AssxmlExporter.h">
+      <Filter>ASSXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\B3DImporter.h">
+      <Filter>B3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\BVHLoader.h">
+      <Filter>BVH</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ColladaHelper.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ColladaLoader.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ColladaParser.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\DXFLoader.h">
+      <Filter>DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\DXFHelper.h">
+      <Filter>DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\CSMLoader.h">
+      <Filter>CSM</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\HMPFileData.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\HMPLoader.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\HalfLifeFileData.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\IRRMeshLoader.h">
+      <Filter>IRRMESH</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\IRRShared.h">
+      <Filter>IRR</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\IRRLoader.h">
+      <Filter>IRR</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\LWOAnimation.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\LWOFileData.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\LWOLoader.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\LWSLoader.h">
+      <Filter>LWS</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MD2FileData.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MD2Loader.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MD2NormalTable.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MD3FileData.h">
+      <Filter>MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MD3Loader.h">
+      <Filter>MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MD5Loader.h">
+      <Filter>MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MD5Parser.h">
+      <Filter>MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MDCFileData.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MDCLoader.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MDCNormalTable.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MDLDefaultColorMap.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MDLFileData.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MDLLoader.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\NFFLoader.h">
+      <Filter>NFF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\NDOLoader.h">
+      <Filter>NDO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\OFFLoader.h">
+      <Filter>OFF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ObjFileData.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ObjFileImporter.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ObjFileMtlImporter.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ObjFileParser.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ObjTools.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\OgreImporter.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\OgreStructs.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\OgreParsingUtils.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\OgreBinarySerializer.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\OgreXmlSerializer.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\OpenGEXImporter.h">
+      <Filter>OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\OpenGEXStructs.h">
+      <Filter>OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\PlyLoader.h">
+      <Filter>PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\PlyParser.h">
+      <Filter>PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MS3DLoader.h">
+      <Filter>MS3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\COBLoader.h">
+      <Filter>COB</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\COBScene.h">
+      <Filter>COB</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\BlenderLoader.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\BlenderDNA.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\BlenderDNA.inl">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\BlenderScene.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\BlenderSceneGen.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\BlenderIntermediate.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\BlenderModifier.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\BlenderBMesh.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\BlenderTessellator.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\BlenderCustomData.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer\IFC\IFCLoader.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer\IFC\IFCReaderGen_2x3.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer\IFC\IFCUtil.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\XGLLoader.h">
+      <Filter>XGL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXCompileConfig.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXImporter.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXParser.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXTokenizer.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXImportSettings.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXConverter.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXUtil.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXDocument.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXProperties.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXMeshGeometry.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXCommon.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Q3DLoader.h">
+      <Filter>Q3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Q3BSPFileData.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Q3BSPFileParser.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Q3BSPFileImporter.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Q3BSPZipArchive.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\RawLoader.h">
+      <Filter>RAW</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\SIBImporter.h">
+      <Filter>SIB</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\SMDLoader.h">
+      <Filter>SMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\STLLoader.h">
+      <Filter>STL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\TerragenLoader.h">
+      <Filter>TERRAGEN</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\UnrealLoader.h">
+      <Filter>3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\XFileHelper.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\XFileImporter.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\XFileParser.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\X3DImporter.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\X3DImporter_Macro.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\X3DImporter_Node.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FIReader.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\glTFAsset.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\glTFAsset.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\glTFAssetWriter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\glTFAssetWriter.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\glTFImporter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\glTF2Asset.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\glTF2Asset.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\glTF2AssetWriter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\glTF2AssetWriter.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\glTF2Importer.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\D3MFImporter.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\D3MFOpcPackage.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\3MFXmlTags.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MMDCpp14.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MMDImporter.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MMDPmdParser.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MMDPmxParser.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\MMDVmdParser.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\STEPFile.h">
+      <Filter>STEP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer\StepFile\StepFileImporter.h">
+      <Filter>STEP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\Importer\StepFile\StepReaderGen.h">
+      <Filter>STEP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\3DSExporter.h">
+      <Filter>3DS_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\AssbinExporter.h">
+      <Filter>ASSBIN_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ColladaExporter.h">
+      <Filter>COLLADA_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\ObjExporter.h">
+      <Filter>OBJ_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\OpenGEXExporter.h">
+      <Filter>OPENGEX_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\PlyExporter.h">
+      <Filter>PLY_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXExporter.h">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXExportNode.h">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\FBXExportProperty.h">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\STLExporter.h">
+      <Filter>STL_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\XFileExporter.h">
+      <Filter>X_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\X3DExporter.hpp">
+      <Filter>X3D_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\glTFExporter.h">
+      <Filter>GLTF_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\glTF2Exporter.h">
+      <Filter>GLTF_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\D3MFExporter.h">
+      <Filter>3MF_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\StepExporter.h">
+      <Filter>STEP_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\irrXMLWrapper.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\unzip\crypt.h">
+      <Filter>unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\unzip\ioapi.h">
+      <Filter>unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\unzip\unzip.h">
+      <Filter>unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\poly2tri\poly2tri\common\shapes.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\poly2tri\poly2tri\common\utils.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\poly2tri\poly2tri\sweep\advancing_front.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\poly2tri\poly2tri\sweep\cdt.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\poly2tri\poly2tri\sweep\sweep.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\poly2tri\poly2tri\sweep\sweep_context.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\clipper\clipper.hpp">
+      <Filter>Clipper</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\openddlparser\include\openddlparser\OpenDDLParser.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\openddlparser\include\openddlparser\OpenDDLParserUtils.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\openddlparser\include\openddlparser\OpenDDLCommon.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\openddlparser\include\openddlparser\OpenDDLExport.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\openddlparser\include\openddlparser\OpenDDLStream.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\openddlparser\include\openddlparser\DDLNode.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\openddlparser\include\openddlparser\Value.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcAdjacencyInfo.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcArithmeticCodec.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcBinaryStream.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcCommon.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcDVEncodeParams.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcDynamicVectorDecoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcDynamicVectorEncoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcDynamicVector.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcFIFO.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcIndexedFaceSet.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcIndexedFaceSet.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcSC3DMCDecoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcSC3DMCDecoder.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcSC3DMCEncodeParams.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcSC3DMCEncoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcSC3DMCEncoder.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcTimer.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcTriangleFans.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcTriangleListDecoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcTriangleListDecoder.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcTriangleListEncoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcTriangleListEncoder.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcVector.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\Open3DGC\o3dgcVector.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\zip\src\miniz.h">
+      <Filter>ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\contrib\zip\src\zip.h">
+      <Filter>ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\anim.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\ai_assert.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\color4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\color4.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Build\Glitter\Vendor\assimp\include\assimp\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\Defines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\cfileio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\material.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\matrix3x3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\matrix3x3.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\matrix4x4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\matrix4x4.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\pbrmaterial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\postprocess.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\quaternion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\quaternion.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\metadata.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\vector2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\vector2.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\vector3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\vector3.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\cimport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\importerdesc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\Importer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\ProgressHandler.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\IOStream.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\IOSystem.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\cexport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\Exporter.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\DefaultIOStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\DefaultIOSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\SceneCombiner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\fast_atof.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\qnan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\BaseImporter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\Hash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\MemoryIOWrapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\ParsingUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\StreamReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\StreamWriter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\StringComparison.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\StringUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\SGSpatialSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\GenericProperty.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\SpatialSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\SkeletonMeshBuilder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\SmoothingGroups.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\SmoothingGroups.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\StandardShapes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\RemoveComments.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\Subdivision.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\Vertex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\LineSplitter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\TinyFormatter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\Profiler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\LogAux.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\Bitmap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\XMLTools.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\IOStreamBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\CreateAnimMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\MathFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\Macros.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\Exceptional.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\ByteSwapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\Compiler\pushpack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\Compiler\poppack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\include\assimp\Compiler\pstdint.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\julia\Documents\GitFacul\Glitter\Glitter\Vendor\assimp\code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="3D">
+      <UniqueIdentifier>{13EE887F-E419-39D3-BC01-702F03720F4B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DS">
+      <UniqueIdentifier>{82236B3F-A002-37B0-83AE-C6D375EBD65E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DS_EXPORTER">
+      <UniqueIdentifier>{6129359C-BED2-3CC2-B7A9-755D55420D15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3MF">
+      <UniqueIdentifier>{B86E2FAB-D6A2-385B-BD89-5346D825D62A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3MF_EXPORTER">
+      <UniqueIdentifier>{DF086DE8-A9C4-3CD4-98FE-68EA524F531A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AC">
+      <UniqueIdentifier>{36FA90D7-D304-3507-ACAF-5D40A1C33042}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AMF">
+      <UniqueIdentifier>{E57F3340-A48F-3618-8D51-DA22C281A73D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASE">
+      <UniqueIdentifier>{11FBAF41-7B6A-3656-ADA3-3D92D4522EB2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASSBIN">
+      <UniqueIdentifier>{E94E6A82-1999-38F6-9F1F-3FA6EB0C8575}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASSBIN_EXPORTER">
+      <UniqueIdentifier>{043F0509-0489-3325-91C6-996DBA11AA33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASSXML">
+      <UniqueIdentifier>{DC95F97A-F3EF-3807-ADBF-3D1EB0021A18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="B3D">
+      <UniqueIdentifier>{519FA290-3D6E-3EE9-9A2F-C9BC79983F2A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BLEND">
+      <UniqueIdentifier>{6427CC28-E4F6-3E27-89E1-A4FA002993F8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BVH">
+      <UniqueIdentifier>{544B93B1-7F83-3406-A2E1-C81A656DDDC7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COB">
+      <UniqueIdentifier>{9E5C65FE-E3D0-30A0-8D2D-F87190FFDA5B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COLLADA">
+      <UniqueIdentifier>{D6E390D9-A1D2-3D41-B39C-99473118BFDD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COLLADA_EXPORTER">
+      <UniqueIdentifier>{9C8B6214-54FA-3FCB-A7A2-A9855190D156}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CSM">
+      <UniqueIdentifier>{1F29F5B9-6B3E-3AA7-9F04-E1996282D67B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Clipper">
+      <UniqueIdentifier>{5ADE72A2-4886-353C-AA5A-FC1230F4191B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{559E98A9-7C47-39BB-A656-1DAFE23C7871}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Compiler">
+      <UniqueIdentifier>{A4DB1701-C802-3D8E-B24E-B7A4B475C3AB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXF">
+      <UniqueIdentifier>{F1BFC82A-2DFD-31D9-B715-AED3FA843EBF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Exporter">
+      <UniqueIdentifier>{C6A24D8D-4BAF-3F1E-BE4B-FBEB9CA3AE41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FBX">
+      <UniqueIdentifier>{850D7B40-263A-35B8-97B9-EBDD6A6A0067}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FBX_EXPORTER">
+      <UniqueIdentifier>{024DA8E9-3052-36EC-B5FC-3B7FECA49A8E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GLTF">
+      <UniqueIdentifier>{5D7DE93A-717D-34A9-8403-3A1739206BBF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GLTF_EXPORTER">
+      <UniqueIdentifier>{3A3F1218-C535-3C72-9D2F-9F5D851152F8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HMP">
+      <UniqueIdentifier>{367D40A4-226A-3924-AB0C-B8B95FC20157}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0576DABB-C3B7-3EBA-A970-A26057EB31B9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IFC">
+      <UniqueIdentifier>{1DA3B78E-6716-3BC3-8EAE-8F952FE78E59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IRR">
+      <UniqueIdentifier>{11D70163-A872-3945-8F22-93C198870494}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IRRMESH">
+      <UniqueIdentifier>{BC0E12D5-5A35-3985-B16F-13EBCC7288E1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IrrXML">
+      <UniqueIdentifier>{27821EFE-022D-3700-94DC-B556ACFF3DDA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LWO">
+      <UniqueIdentifier>{CC7849C2-CDB5-35EB-9D83-C69223FE6B08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LWS">
+      <UniqueIdentifier>{94B32FBF-C971-3B89-8F7B-826417988684}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logging">
+      <UniqueIdentifier>{B73656E0-9314-3212-8C72-06D5B18B58EB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD2">
+      <UniqueIdentifier>{C1682B46-C79C-3333-A620-69EE459FE41B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD3">
+      <UniqueIdentifier>{AF001467-B6CF-3879-BA67-039191D0BCD7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD5">
+      <UniqueIdentifier>{B7AA2D80-C04C-3B45-A8AB-67A9EE686244}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MDC">
+      <UniqueIdentifier>{13D3146F-4626-3607-85DB-CB9A2B3C7620}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MDL">
+      <UniqueIdentifier>{1774216B-1863-3929-8E03-147E40751C34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MMD">
+      <UniqueIdentifier>{0F7BB981-C7E2-3FAB-9009-5BB7C3BBA31E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MS3D">
+      <UniqueIdentifier>{8156AF9B-6A92-36B1-A65B-8566A7B1D2E3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MaterialSystem">
+      <UniqueIdentifier>{88D0B2D6-31B1-3AD7-B20F-A859F6A1F1AE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NDO">
+      <UniqueIdentifier>{1FD92034-9BE6-3E06-855D-BB644E5C4E82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NFF">
+      <UniqueIdentifier>{23C30035-A9AF-3FD2-B44C-2720984B0434}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OBJ">
+      <UniqueIdentifier>{24E4F256-B854-3E28-ACDC-60B0ABEF2B58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OBJ_EXPORTER">
+      <UniqueIdentifier>{12B3CFEF-9E0F-3C3C-8948-FA70369577A5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OFF">
+      <UniqueIdentifier>{70D080DB-E33B-30B6-9C95-AE7EA6BBF79F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OGRE">
+      <UniqueIdentifier>{473AEA0A-83A7-3C76-B2A8-3B03AF1A64C8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OPENGEX">
+      <UniqueIdentifier>{09DB576B-F4B8-3BA5-AAB8-E5B78EAD4C84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OPENGEX_EXPORTER">
+      <UniqueIdentifier>{4790D76E-02AA-3B3C-8859-AA6D39CE8594}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PLY">
+      <UniqueIdentifier>{DDC881E0-22CC-3729-A4BF-38393A6424CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PLY_EXPORTER">
+      <UniqueIdentifier>{4AEBADDC-FB22-389C-A9B2-BBA9AFBFED87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Poly2Tri">
+      <UniqueIdentifier>{CAA46899-88F3-3597-9B09-E0187D02A10A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PostProcessing">
+      <UniqueIdentifier>{FB6F07AE-6775-31D6-A26B-F7CBB63DA8EC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q3BSP">
+      <UniqueIdentifier>{D8353F8E-920E-39F3-8F47-B935E96BF12F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q3D">
+      <UniqueIdentifier>{33F677DA-CE50-3050-8FF4-0886CD413546}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RAW">
+      <UniqueIdentifier>{CFDFE04C-058B-3804-9FB1-1CDE5CB4F8E9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SIB">
+      <UniqueIdentifier>{75F8680F-19D8-361B-B739-3E49BD94EFB2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SMD">
+      <UniqueIdentifier>{AAE86A37-DDAF-38F3-B0B2-3DF30E9BD974}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STEP">
+      <UniqueIdentifier>{0728AC58-E2E8-381B-B7D2-4DC508302B22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STEPParser">
+      <UniqueIdentifier>{6C5C2D6A-496F-321B-8410-B9445473634F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STEP_EXPORTER">
+      <UniqueIdentifier>{610C25A6-A09A-3E71-8514-F8DB1C0D7099}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STL">
+      <UniqueIdentifier>{3155801A-FC37-31B1-82B0-3B60294881C6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STL_EXPORTER">
+      <UniqueIdentifier>{B78B1B42-4E3E-31A7-B762-53852EA3795F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9F5935AA-0875-3347-B160-00FD43505608}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TERRAGEN">
+      <UniqueIdentifier>{E7522ABC-6AC8-308C-8200-9083EF2E8D0C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X">
+      <UniqueIdentifier>{F5653778-B9A3-35DE-A4FB-0E3B138770EB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X3D">
+      <UniqueIdentifier>{E9228549-EA1E-3539-BEE6-8C628E7A11A4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X3D_EXPORTER">
+      <UniqueIdentifier>{A78CC839-2A22-3EF0-836D-1DCD9BA3D399}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XGL">
+      <UniqueIdentifier>{7A64A383-5F44-3B8F-B978-770BFAF3EB20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X_EXPORTER">
+      <UniqueIdentifier>{69A1775A-817D-3C60-B208-D3453147B199}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="open3dgc">
+      <UniqueIdentifier>{F51FAE5D-A613-3BBA-8989-FE6D87E0CC7C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="openddl_parser">
+      <UniqueIdentifier>{410A5E1E-2053-388B-AAB5-466CEB9D8C9E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="unzip">
+      <UniqueIdentifier>{204C521A-9A6C-37D6-89AB-62F91038847C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ziplib">
+      <UniqueIdentifier>{D47E973C-0925-348D-9DAD-438B3FAE1475}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
